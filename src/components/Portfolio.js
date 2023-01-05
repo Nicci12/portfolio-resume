@@ -56,28 +56,21 @@ const Portfolio = () => {
               onClick={handleFilterKeyChange("branding")}
               data-filter=".branding"
             >
-              Branding
+              Pet Adoption
             </li>
             <li
               className={`c-pointer ${activeBtn("photoshop")}`}
               onClick={handleFilterKeyChange("photoshop")}
               data-filter=".photoshop"
             >
-              Photoshop
+              Mental Health Blog
             </li>
             <li
               className={`c-pointer ${activeBtn("fashion")}`}
               onClick={handleFilterKeyChange("fashion")}
               data-filter=".fashion"
             >
-              Fashion
-            </li>
-            <li
-              className={`c-pointer ${activeBtn("product")}`}
-              onClick={handleFilterKeyChange("product")}
-              data-filter=".product"
-            >
-              Product
+              Free Lance
             </li>
           </ul>
         </div>{" "}

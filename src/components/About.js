@@ -25,35 +25,14 @@ const About = () => {
               </div>
               <div className="about-text">
                 <h3>
-                  {`I'm`} a Freelancer Front-end Developer with over 3 years of
+                  My Name is Nicola Dimant and {`I'm`} a FullStack Developer with over 3 years of
                   experience.{" "}
                 </h3>
                 <p>
-                  {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                  experience. {`I'm`} from San Francisco. I code and create web
-                  elements for amazing people around the world. I like work with
-                  new people. New people new Experiences.
+                  I was born in South Africa, but moved to Israel to further persue my passion in the Hi-tech industry and software development.
+                  {`I'm`} a Fullstack developer with over 3 years of
+                  experience and i also work as a freelancer.
                 </p>
-                <div className="row">
-                  <div className="col-auto">
-                    <div className="media align-items-center">
-                      <span className="count">5k</span>
-                      <div className="media-body">
-                        Projects <br />
-                        Completed.
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-auto">
-                    <div className="media align-items-center">
-                      <span className="count">3k</span>
-                      <div className="media-body">
-                        Satisfied <br />
-                        Clients.
-                      </div>
-                    </div>
-                  </div>
-                </div>
                 <div className="btn-bar">
                   <Link className="px-btn px-btn-theme" href="#">
                     <span>Contact Me</span>
@@ -73,20 +52,25 @@ const About = () => {
         <div className="row">
           <div className="col-lg-4 m-15px-tb">
             <ul className="aducation-box">
-              <li>
-                <span>2010-2012</span>
-                <h6>Graphic Designer</h6>
-                <p>International Design Institute</p>
+            <li>
+                <span>2016-2019</span>
+                <h6>BA majoring in Psychology and Sociology</h6>
+                <p>The University of Witwaaterstrand</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Web Development</h6>
-                <p>International Design Institute</p>
+                <span>2019-2021</span>
+                <h6>Self Taught Full Stack Developer & Freelancer</h6>
+                <p>Udemy & FreeCodeCamp</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Search Engine Optimization</h6>
-                <p>International Design Institute</p>
+                <span>2022</span>
+                <h6>Full Stck Developer Bootcamp</h6>
+                <p>Israel Tech Challenge</p>
+              </li>
+              <li>
+                <span>2022-2023</span>
+                <h6>Fullstack Developer Internship</h6>
+                <p>Money Club for Makers</p>
               </li>
             </ul>
           </div>
@@ -102,23 +86,47 @@ const About = () => {
               <div className="skill-lt">
                 <h6>HTML5</h6>
                 <div className="skill-bar">
+                  <div className="skill-bar-in" style={{ width: "100%" }}>
+                    <span data-toggle="tooltip" title="100%" />
+                  </div>
+                </div>
+              </div>
+              <div className="skill-lt">
+                <h6>CSS</h6>
+                <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "92%" }}>
                     <span data-toggle="tooltip" title="92%" />
                   </div>
                 </div>
               </div>
-              {/* /skill */}
               <div className="skill-lt">
-                <h6>WordPress</h6>
+                <h6>JavaScript/React</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "72%" }}>
-                    <span data-toggle="tooltip" title="72%" />
+                  <div className="skill-bar-in" style={{ width: "100%" }}>
+                    <span data-toggle="tooltip" title="100%" />
+                  </div>
+                </div>
+              </div>
+              <div className="skill-lt">
+                <h6>Node.js & Express</h6>
+                <div className="skill-bar">
+                  <div className="skill-bar-in" style={{ width: "100%" }}>
+                    <span data-toggle="tooltip" title="100%" />
                   </div>
                 </div>
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>Magento</h6>
+                <h6>MongoDB & SQL</h6>
+                <div className="skill-bar">
+                  <div className="skill-bar-in" style={{ width: "92%" }}>
+                    <span data-toggle="tooltip" title="792%" />
+                  </div>
+                </div>
+              </div>
+              {/* /skill */}
+              <div className="skill-lt">
+                <h6>AWS</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "86%" }}>
                     <span data-toggle="tooltip" title="86%" />
@@ -152,15 +160,11 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
-                  <div className="rb-time">Full Time</div>
+                  <h6>FullStack Developer</h6>
+                  <label>Udemy| Remote | Jan 2019 - May 2022</label>
+                  <div className="rb-time">Part Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                  Learning fullstack development on Udemy has been a fantastic experience for me. With a wide variety of courses and instructors to choose from, I was able to find a learning path that suited my needs and goals. The online format allowed me to learn at my own pace and fit my studies into my busy schedule. The interactive exercises and projects in the courses helped me apply what I learned and build a portfolio of work to showcase my skills. Additionally, the support and community in the Udemy forums were invaluable for answering questions and getting feedback on my progress. Overall, learning fullstack development on Udemy has had a positive impact on my career by giving me the skills and confidence to take on new challenges and pursue new opportunities as a fullstack developer.
                   </p>
                 </div>
               </div>
@@ -175,15 +179,11 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>FullStack Developer</h6>
+                  <label>Israel Tech Challange | Tel-Aviv | May 2022 - September 2022</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                  Becoming a fullstack developer by participating in Israel Tech Challenge bootcamp was a transformative experience for me. The immersive and intensive nature of the bootcamp allowed me to focus solely on my studies and make rapid progress. The instructors were highly skilled and supportive, and the curriculum was designed to cover a wide range of technologies and techniques. In addition to the technical skills I acquired, the bootcamp also helped me improve my problem-solving, communication, and collaboration skills through group projects and team challenges. Since completing the bootcamp, I have seen significant growth in my career as a fullstack developer. I have been able to take on more complex projects, work with a wider range of technologies, and contribute to the development of successful products. I am grateful for the opportunity to participate in the coding bootcamp and for the positive impact it has had on my career as a fullstack developer.
                   </p>
                 </div>
               </div>
@@ -198,15 +198,11 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>FullStack Developer Internship</h6>
+                  <label>Money Club for Makers | Hybrid | October 2022- Present</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                  During this inetrnship I worked side by side with a FullStack Developer where we created a mental health blog that focused on alternative types of treament for mental health.
                   </p>
                 </div>
               </div>

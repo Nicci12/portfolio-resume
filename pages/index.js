@@ -9,6 +9,18 @@ const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
   ssr: false,
 });
 const Index = () => {
+
+  function handleClick(event) {
+    event.preventDefault()
+    // You can add code here to track the download or perform other actions
+    const url = '/static/img/resume.pdf'
+    const link = document.createElement('a')
+    link.href = url
+    link.setAttribute('download', 'resume.pdf')
+    document.body.appendChild(link)
+    link.click()
+    link.parentNode.removeChild(link)
+  }
   return (
     <Layout>
       <section
@@ -27,20 +39,21 @@ const Index = () => {
                     I Am Passionate <TypingAnimation />
                   </p>
                   <p className="desc">
-                    I design and develop services for customers of all sizes,
-                    specializing in creating stylish, modern websites, web
-                    services and online stores.
+                 I am a fullstack developer with a passion for building modern and responsive web applications. With experience in a variety of languages and frameworks, including JavaScript, React, and Node.js, I have the skills and expertise to bring any project from idea to implementation. When I am not coding, you can find them learning new technologies, participating in hackathons, or contributing to open-source projects.I am always looking for new challenges and opportunities to grow as a developer. 
                   </p>
                   <div className="btn-bar">
-                    <a className="px-btn px-btn-theme" href="#">
+                  <button
+      onClick={handleClick}
+      className="px-btn px-btn-theme"
+    >
                       Donwload CV
-                    </a>
+                    </button>
                   </div>
                 </div>
               </div>
               <div className="col-lg-6">
                 <div className="hb-img">
-                  <img src="static/img/home-banner.png" title="" alt="" />
+                  <img src="static/img/home-ban.jpg" title="" alt="" />
                 </div>
               </div>
             </div>
