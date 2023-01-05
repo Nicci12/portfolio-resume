@@ -78,9 +78,9 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-target" />
+              <i className="icon theme-bg icon-desktop" />
               <div className="feature-content media-body">
-                <h5>SEO Marketing</h5>
+                <h5>Web Development</h5>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.

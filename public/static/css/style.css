@@ -164,7 +164,7 @@ mark {
   transition: ease all 0.35s;
 }
 .px-btn.px-btn-theme {
-  background: #2fbf71;
+  background: #FF8787;
   color: #fff;
   box-shadow: 4px 4px #fff;
 }
@@ -173,8 +173,8 @@ mark {
 }
 .px-btn.px-btn-theme:hover {
   background: #fff;
-  color: #2fbf71;
-  box-shadow: 4px 4px #2fbf71;
+  color: #FF8787;
+  box-shadow: 4px 4px #FF8787;
 }
 .theme-light .px-btn.px-btn-theme:hover {
   background: #0b0b13;
@@ -228,7 +228,7 @@ mark {
   border-radius: 0 0 50% 50%;
   width: 350px;
   height: 350px;
-  background: #2fbf71;
+  background: #BCE29E;
 }
 .header-left .hl-top .img {
   width: 120px;
@@ -1482,7 +1482,7 @@ mark {
   margin: 0;
 }
 .feature-box-01:hover {
-  background: #2fbf71;
+  background: #BCE29E;
 }
 .feature-box-01:hover .icon {
   color: #fff;
@@ -1602,7 +1602,7 @@ mark {
   display: inline-block;
   padding: 5px 10px;
   color: #fff;
-  background: #2fbf71;
+  background: #FF8787;
   font-size: 10px;
   font-weight: 300;
   text-transform: uppercase;
@@ -1691,7 +1691,7 @@ mark {
   -webkit-transition: ease all 0.55s;
   transition: ease all 0.55s;
   height: 5px;
-  background: #2fbf71;
+  background: #BCE29E;
 }
 
 .aducation-box {
@@ -1719,7 +1719,7 @@ mark {
   color: #0b0b13;
 }
 .aducation-box span {
-  background: #2fbf71;
+  background: #FF8787;
   color: #fff;
   font-size: 11px;
   padding: 1px 8px;
@@ -1792,7 +1792,7 @@ mark {
 .contact-info li i {
   width: 30px;
   text-align: center;
-  color: #2fbf71;
+  color: #BCE29E;
   font-size: 22px;
 }
 .contact-info li span {

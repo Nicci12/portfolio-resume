@@ -165,7 +165,7 @@ mark {
   transition: ease all 0.35s;
 }
 .px-btn.px-btn-theme {
-  background: #2fbf71;
+  background: #FF8787;
   color: #fff;
   box-shadow: 4px 4px #fff;
 }
@@ -175,7 +175,7 @@ mark {
 .px-btn.px-btn-theme:hover {
   background: #fff;
   color: #2fbf71;
-  box-shadow: 4px 4px #2fbf71;
+  box-shadow: 4px 4px #FF8787;
 }
 .theme-light .px-btn.px-btn-theme:hover {
   background: #0b0b13;
@@ -229,7 +229,7 @@ mark {
   border-radius: 0 0 50% 50%;
   width: 350px;
   height: 350px;
-  background: #2fbf71;
+  background: #FF8787;
 }
 .header-left .hl-top .img {
   width: 120px;
@@ -929,7 +929,7 @@ mark {
   color: #fff;
   display: inline-block;
   vertical-align: top;
-  background: #2fbf71;
+  background: #BCE29E;
   font-size: 24px;
   text-align: center;
 }
@@ -1410,7 +1410,7 @@ mark {
   -ms-transform: scale(1.1);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
-  background: #2fbf71;
+  background: #BCE29E;
   color: #fff;
 }
 
@@ -1516,7 +1516,7 @@ mark {
   margin: 0;
 }
 .feature-box-01:hover {
-  background: #2fbf71;
+  background: #FF8787;
 }
 .feature-box-01:hover .icon {
   color: #fff;
@@ -1636,7 +1636,7 @@ mark {
   display: inline-block;
   padding: 5px 10px;
   color: #fff;
-  background: #2fbf71;
+  background: #FF8787;
   font-size: 10px;
   font-weight: 300;
   text-transform: uppercase;
@@ -1694,7 +1694,7 @@ mark {
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background: #2fbf71;
+  background: #FF8787;
   position: absolute;
   right: -1px;
   top: -5px;
@@ -1726,7 +1726,7 @@ mark {
   -webkit-transition: ease all 0.55s;
   transition: ease all 0.55s;
   height: 5px;
-  background: #2fbf71;
+  background: #FF8787;
 }
 
 .aducation-box {
@@ -1827,7 +1827,7 @@ mark {
 .contact-info li i {
   width: 30px;
   text-align: center;
-  color: #2fbf71;
+  color: #BCE29E;
   font-size: 22px;
 }
 .contact-info li span {
