@@ -95,12 +95,6 @@ const MenuWithOutBlog = () => {
           <span>Portfolio</span>
         </Link>
       </li>
-      <li data-menuanchor="blog" className="blog">
-        <Link className="nav-link" href="#blog">
-          <i className="ti-layout-media-overlay-alt-2" />
-          <span>Blogs</span>
-        </Link>
-      </li>
       <li data-menuanchor="contactus">
         <Link className="nav-link" href="#contactus">
           <i className="ti-map-alt" />
