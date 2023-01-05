@@ -1,6 +1,5 @@
 import dynamic from "next/dynamic";
 import About from "../src/components/About";
-import Blog from "../src/components/Blog";
 import Contact from "../src/components/Contact";
 import Services from "../src/components/Services";
 import TypingAnimation from "../src/components/TypingAnimation";
