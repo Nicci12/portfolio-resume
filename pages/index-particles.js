@@ -2,7 +2,6 @@ import dynamic from "next/dynamic";
 import About from "../src/components/About";
 import Blog from "../src/components/Blog";
 import Contact from "../src/components/Contact";
-import ParticlesBackground from "../src/components/ParticlesBackground";
 import Services from "../src/components/Services";
 import Layout from "../src/layout/Layout";
 const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
@@ -17,8 +16,6 @@ const IndexParticles = () => {
         className="pp-section pp-scrollable"
       >
         <div className="home-banner">
-          {/* <div id="particles-box" className="particles" /> */}
-          <ParticlesBackground />
           <div className="container">
             <div className="row full-screen align-items-center">
               <div className="col-lg-6">
