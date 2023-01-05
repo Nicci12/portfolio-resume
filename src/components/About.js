@@ -37,8 +37,8 @@ const About = () => {
                   <Link className="px-btn px-btn-theme" href="#">
                     <span>Contact Me</span>
                   </Link>
-                  <Link className="px-btn px-btn-theme" href="#">
-                    <span>Portfolio</span>
+                  <Link className="px-btn px-btn-theme" href="https://github.com/Nicci12">
+                    <span>GitHub Portfolio</span>
                   </Link>
                 </div>
               </div>

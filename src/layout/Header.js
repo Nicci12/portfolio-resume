@@ -46,20 +46,20 @@ const Header = ({ blog }) => {
           {blog ? <MenuWithBlog /> : <MenuWithOutBlog />}
         </div>
         <div className="nav justify-content-center social-icons">
-          <Link href="#">
+          <Link href="https://www.facebook.com/profile.php?id=100004998013196">
             <i className="fab fa-facebook-f" />
           </Link>
-          <Link href="#">
+          <Link href="https://twitter.com/ndimant1996">
             <i className="fab fa-twitter" />
           </Link>
-          <Link href="#">
+          <Link href="https://www.instagram.com/niccidimant/">
             <i className="fab fa-instagram" />
           </Link>
-          <Link href="#">
+          <Link href="https://www.linkedin.com/in/nicci-dimant-8b0112226/">
             <i className="fab fa-linkedin-in" />
           </Link>
-          <Link href="#">
-            <i className="fab fa-pinterest" />
+          <Link href="https://github.com/Nicci12">
+            <i className="fab fa-github" />
           </Link>
         </div>
       </header>
