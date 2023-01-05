@@ -21,7 +21,7 @@ const Contact = () => {
                 <li className="media">
                   <i className="ti-map" />
                   <span className="media-body">
-                    Tel Avivi
+                    Tel Aviv, Israel
                   </span>
                 </li>
                 <li className="media">
@@ -118,11 +118,7 @@ const Contact = () => {
           <div className="col-12">
             <div className="google-map">
               <div className="embed-responsive embed-responsive-21by9">
-                <iframe
-                  className="embed-responsive-item"
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883"
-                  allowFullScreen=""
-                />
+                  <iframe  className="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d54086.50549865385!2d34.74674802121638!3d32.08529508354255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e3!4m5!1s0x151d4ca6193b7c1f%3A0xc1fb72a2c0963f90!2sTel%20Aviv!3m2!1d32.085299899999995!2d34.781767599999995!4m0!5e0!3m2!1sen!2sil!4v1672917150894!5m2!1sen!2sil" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>

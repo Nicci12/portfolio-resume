@@ -71,7 +71,6 @@ const Index = () => {
       <Portfolio />
       {/* End Portfolio */}
       {/* Blog */}
-      <Blog />
       {/* End Blog */}
       {/* Contact us */}
       <Contact />
