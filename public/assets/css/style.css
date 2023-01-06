@@ -168,7 +168,14 @@ mark {
   background: #FF8787;
   color: #fff;
   box-shadow: 4px 4px #fff;
+}  
+
+@media screen and (max-width: 350px) {
+  .px-btn.px-btn-theme{
+    margin-bottom: 20px;
+  }
 }
+
 .theme-light .px-btn.px-btn-theme {
   box-shadow: 4px 4px #0b0b13;
 }

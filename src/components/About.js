@@ -38,11 +38,10 @@ const About = () => {
                   <Link className="px-btn px-btn-theme" href="#contactus">
                     <span>Contact Me</span>
                   </Link>
-
                   <Link
-                    className="px-btn px-btn-theme"
+                    className="px-btn px-btn-theme github"
                     href="https://github.com/Nicci12">
-                    <span>GitHub Portfolio</span>
+                    <span>GitHub </span>
                   </Link>
                 </div>
               </div>
