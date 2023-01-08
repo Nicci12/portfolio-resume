@@ -139,8 +139,8 @@ const Portfolio = () => {
           <div className="grid-item product photoshop">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
-                <h5 className="white-color font-weight-bold">Momb ios App</h5>
-                <span>Broadcasting ios App</span>
+              <h5 className="white-color font-weight-bold">Netflix App</h5>
+                <span>Cloned Netflix App</span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-5.jpg" title="" alt="" />
@@ -159,8 +159,8 @@ const Portfolio = () => {
           <div className="grid-item branding">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
-                <h5 className="white-color font-weight-bold">Momb ios App</h5>
-                <span>Broadcasting ios App</span>
+              <h5 className="white-color font-weight-bold">Birthday Card App</h5>
+                <span>Personalised Birthday Card</span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-4.jpg" title="" alt="" />
@@ -179,8 +179,8 @@ const Portfolio = () => {
           <div className="grid-item product photoshop">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
-                <h5 className="white-color font-weight-bold">Momb ios App</h5>
-                <span>Broadcasting ios App</span>
+              <h5 className="white-color font-weight-bold">Netflix App</h5>
+                <span>Cloned Netflix App</span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-6.jpg" title="" alt="" />
@@ -199,8 +199,8 @@ const Portfolio = () => {
           <div className="grid-item fashion">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
-                <h5 className="white-color font-weight-bold">Momb ios App</h5>
-                <span>Broadcasting ios App</span>
+                  <h5 className="white-color font-weight-bold">Birthday Card App</h5>
+                <span>Personalised Birthday Card</span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-7.jpg" title="" alt="" />
@@ -219,8 +219,8 @@ const Portfolio = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
-                <h5 className="white-color font-weight-bold">wh</h5>
-                <span>Broadcasting ios App</span>
+              <h5 className="white-color font-weight-bold">Pet Adoption App</h5>
+                <span> Mock App</span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-8.jpg" title="" alt="" />
