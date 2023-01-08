@@ -76,7 +76,7 @@ const Portfolio = () => {
         </div>{" "}
         {/* Portfolio Filter */}
         <div className="portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery">
-          <div className="grid-item product branding fashion">
+          <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
                 <h5 className="white-color font-weight-bold">Pet Adoption App</h5>
@@ -159,8 +159,8 @@ const Portfolio = () => {
           <div className="grid-item branding">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
-              <h5 className="white-color font-weight-bold">Birthday Card App</h5>
-                <span>Personalised Birthday Card</span>
+              <h5 className="white-color font-weight-bold">Pet Adoption App</h5>
+                <span> Mock App</span>
               </div>
               <div className="portfolio-img">
                 <img src="static/img/m-portfolio-4.jpg" title="" alt="" />
@@ -237,6 +237,26 @@ const Portfolio = () => {
           </div>{" "}
           {/* grid item */}
           <div className="grid-item fashion">
+            <div className="portfolio-box-01">
+              <div className="portfolio-info">
+              <h5 className="white-color font-weight-bold">Birthday Card App</h5>
+                <span>Personalised Birthday Card</span>
+              </div>
+              <div className="portfolio-img">
+                <img src="static/img/m-portfolio-9.jpg" title="" alt="" />
+                <div className="portfolio-icon">
+                  <Link
+                    href="static/img/m-portfolio-9.jpg"
+                    className="gallery-link"
+                  >
+                    <span className="ti-plus" />
+                  </Link>
+                </div>
+              </div>
+            </div>
+          </div>{" "}
+                  {/* grid item */}
+                  <div className="grid-item fashion">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
               <h5 className="white-color font-weight-bold">Birthday Card App</h5>

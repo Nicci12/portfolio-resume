@@ -28,11 +28,10 @@ const About = () => {
                   with over 3 years of experience.{" "}
                 </h3>
                 <p>
-                  I was born in South Africa, but moved to Israel to further
+                  I was born in South Africa, and moved to Israel to further
                   persue my passion in the Hi-tech industry and software
                   development.
-                  {`I'm`} a Fullstack developer with over 3 years of experience
-                  and i also work as a freelancer.
+                  {`I'm`} a Fullstack developer with over 3 years of experience.
                 </p>
                 <div className="btn-bar">
                   <Link className="px-btn px-btn-theme" href="#contactus">
@@ -129,7 +128,7 @@ const About = () => {
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>AWS</h6>
+                <h6>AWS & GCS</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "86%" }}>
                     <span data-toggle="tooltip" title="86%" />
