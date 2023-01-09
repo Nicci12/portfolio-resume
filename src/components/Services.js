@@ -57,7 +57,7 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-bugz" />
+            <i className="icon theme-bg icon-browser" />
               <div className="feature-content media-body">
                 <h5>Unit Testing</h5>
                 <p>
@@ -73,7 +73,7 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-desktop" />
+              <i className="icon theme-bg icon-laptop" />
               <div className="feature-content media-body">
                 <h5>Debbuging</h5>
                 <p>
@@ -86,11 +86,13 @@ const Services = () => {
           </div>
           <div className="col-sm-6 m-15px-tb">
             <div className="feature-box-01 media">
-              <i className="icon theme-bg icon-desktop" />
+              <i className="icon theme-bg icon-global"  />
               <div className="feature-content media-body">
                 <h5>AWS And GCS</h5>
                 <p>
                  I am suffiecient in both Amazon Web Sevices and Google Cloud Services
+                 {" "}
+                 {" "}
                 </p>
               </div>
             </div>
