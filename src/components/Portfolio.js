@@ -40,7 +40,7 @@ const Portfolio = () => {
     >
       <div className="container">
         <div className="title">
-          <h3>My Portfolio.</h3>
+          <h3>My Portfolio-a few chosen projects.</h3>
         </div>
         <div className="portfolio-filter-01">
           <ul className="filter nav">
@@ -216,26 +216,6 @@ const Portfolio = () => {
             </div>
           </div>{" "}
           {/* grid item */}
-          <div className="grid-item product branding">
-            <div className="portfolio-box-01">
-              <div className="portfolio-info">
-              <h5 className="white-color font-weight-bold">Pet Adoption App</h5>
-                <span> Mock App</span>
-              </div>
-              <div className="portfolio-img">
-                <img src="static/img/m-portfolio-8.jpg" title="" alt="" />
-                <div className="portfolio-icon">
-                  <Link
-                    href="static/img/m-portfolio-8.jpg"
-                    className="gallery-link"
-                  >
-                    <span className="ti-plus" />
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>{" "}
-          {/* grid item */}
           <div className="grid-item fashion">
             <div className="portfolio-box-01">
               <div className="portfolio-info">
@@ -243,10 +223,10 @@ const Portfolio = () => {
                 <span>Personalised Birthday Card</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-9.jpg" title="" alt="" />
+                <img src="static/img/m-portfolio-10.jpg" title="" alt="" />
                 <div className="portfolio-icon">
                   <Link
-                    href="static/img/m-portfolio-9.jpg"
+                    href="static/img/m-portfolio-10.jpg"
                     className="gallery-link"
                   >
                     <span className="ti-plus" />
