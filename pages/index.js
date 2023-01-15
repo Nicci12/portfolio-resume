@@ -35,7 +35,7 @@ const Index = () => {
                   <h6>Hello, I am</h6>
                   <h1 className="font-alt">Nicola</h1>
                   <p className="lead">
-                    I Am Passionate <TypingAnimation />
+                    I Am A Passionate <TypingAnimation />
                   </p>
                   <p className="desc">
                  I am a fullstack developer with a passion for building modern and responsive web applications. With experience in a variety of languages and frameworks, including JavaScript, React, and Node.js, I have the skills and expertise to bring any project from idea to implementation. When I am not coding, you can find them learning new technologies, participating in hackathons, or contributing to open-source projects.I am always looking for new challenges and opportunities to grow as a developer. 

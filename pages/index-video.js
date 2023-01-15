@@ -35,7 +35,7 @@ const IndexVideo = () => {
                   <h6>Hello, I am</h6>
                   <h1 className="font-alt">Nicola Dimant</h1>
                   <p className="lead">
-                    I Am Passionate <span id="type-it" />
+                    I Am A Passionate <span id="type-it" />
                   </p>
                   <p className="desc">
                     I design and develop services for customers of all sizes,
