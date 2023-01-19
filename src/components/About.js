@@ -66,7 +66,7 @@ const About = () => {
               </li>
               <li>
                 <span>2022</span>
-                <h6>Full Stck Developer Bootcamp</h6>
+                <h6>Full Stack Developer Bootcamp</h6>
                 <p>Israel Tech Challenge</p>
               </li>
               <li>
