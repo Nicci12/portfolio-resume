@@ -79,12 +79,6 @@ const About = () => {
           <div className="col-lg-7 ml-auto m-15px-tb">
             <div className="skills-box">
               <h3>My skills</h3>
-              <p>
-                {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                experience. I code and create web elements for amazing people
-                around the world. I like work with new people. New people new
-                Experiences.
-              </p>
               <div className="skill-lt">
                 <h6>HTML5</h6>
                 <div className="skill-bar">
